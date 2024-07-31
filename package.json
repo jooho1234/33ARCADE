@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "babybear(https://github.com/BabyBear7/launcher-demo)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/BabyBear7/launcher-demo",
+  "homepage": "https://github.com/jooho1234/33ARCADE",
   "bugs": {
-    "url": "https://github.com/BabyBear7/launcher-demo/issues"
+    "url": "https://github.com/jooho1234/33ARCADE/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BabyBear7/launcher-demo.git"
+    "url": "git+https://github.com/jooho1234/33ARCADE.git"
   }
 }
