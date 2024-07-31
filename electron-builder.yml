@@ -1,5 +1,5 @@
-appId: 'launcherDemo'
-productName: 'LauncherDemo'
+appId: '33ARCADE'
+productName: '33ARCADE'
 artifactName: '33ARCADE-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 babybear (original author: © 2018-2024 Daniel Scalzi)'
