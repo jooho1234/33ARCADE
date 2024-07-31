@@ -1,14 +1,14 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Launcher-Demo"
+title = "33ARCADE"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/jooho1234/33ARCADE"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/ReY7HJY7w6"
+mediaDiscordURL = "https://discord.gg/edA66hXFn4"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/jooho1234/33ARCADE"
